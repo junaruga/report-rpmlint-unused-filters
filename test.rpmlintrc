@@ -1,1 +1,3 @@
-addFilter(r'^foo$')
+# A conf file.
+
+addFilter(r'^test.src')
